@@ -1,5 +1,5 @@
 #Pesistent settings file for HyperCon
-#Tue Oct 05 22:49:08 BST 2021
+#Wed Oct 06 01:22:53 BST 2021
 ColorConfig.mTransforms[0].mBlueChannelRedSpinner=0
 ColorConfig.mTransforms[0].mRedChannelRedSpinner=255
 ColorConfig.mSmoothingUpdateFrequency_Hz=20.0
